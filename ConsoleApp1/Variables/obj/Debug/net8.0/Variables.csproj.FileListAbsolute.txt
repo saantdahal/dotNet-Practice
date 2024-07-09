@@ -1,0 +1,15 @@
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/bin/Debug/net8.0/Variables
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/bin/Debug/net8.0/Variables.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/bin/Debug/net8.0/Variables.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.sourcelink.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp1/Variables/obj/Debug/net8.0/ref/Variables.dll
