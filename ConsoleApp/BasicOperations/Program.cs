@@ -21,6 +21,20 @@ namespace BasicOperations
             System.Console.WriteLine("Boolean: "+myBul);
             System.Console.WriteLine("Double: "+myDou);
             System.Console.WriteLine("Character: "+myChar);
+            System.Console.WriteLine();
+
+            // Perform Basic operations
+             int sum = myInt+6;
+             double product = myDou *3.5;
+             string combinedString = myChar + name;
+             bool isfalse = !myBul;
+
+           // Printing the value
+
+           System.Console.WriteLine("Sum: "+ sum);
+           System.Console.WriteLine("Product: "+ product);
+           System.Console.WriteLine("Combined String: "+combinedString);
+           System.Console.WriteLine("Boolean : "+ isfalse);
         }
     }
 }
