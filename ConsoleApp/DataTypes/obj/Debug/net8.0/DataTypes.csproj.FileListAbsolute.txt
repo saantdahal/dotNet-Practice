@@ -1,0 +1,15 @@
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfoInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.AssemblyInfo.cs
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.csproj.CoreCompileInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.sourcelink.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/bin/Debug/net8.0/DataTypes
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/bin/Debug/net8.0/DataTypes.deps.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/bin/Debug/net8.0/DataTypes.runtimeconfig.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/bin/Debug/net8.0/DataTypes.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/bin/Debug/net8.0/DataTypes.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/refint/DataTypes.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/DataTypes.genruntimeconfig.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/DataTypes/obj/Debug/net8.0/ref/DataTypes.dll

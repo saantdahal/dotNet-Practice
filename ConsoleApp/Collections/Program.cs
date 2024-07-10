@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace CollectionExercises
-{
+
     class Test
     {
         static void Main(string[] args)
@@ -13,4 +13,4 @@ namespace CollectionExercises
             }
         }
     }
-}
+
