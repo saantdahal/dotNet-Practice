@@ -1,0 +1,15 @@
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.AssemblyInfoInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.AssemblyInfo.cs
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.csproj.CoreCompileInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.sourcelink.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/bin/Debug/net8.0/Collections
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/bin/Debug/net8.0/Collections.deps.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/bin/Debug/net8.0/Collections.runtimeconfig.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/bin/Debug/net8.0/Collections.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/bin/Debug/net8.0/Collections.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/refint/Collections.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/Collections.genruntimeconfig.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/Debug/net8.0/ref/Collections.dll

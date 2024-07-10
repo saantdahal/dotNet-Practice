@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Variables/Variables.csproj",
-      "projectName": "Variables",
-      "projectPath": "/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Variables/Variables.csproj",
+      "projectUniqueName": "/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/Collections.csproj",
+      "projectName": "Collections",
+      "projectPath": "/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/Collections.csproj",
       "packagesPath": "/home/santosh/.nuget/packages/",
-      "outputPath": "/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Variables/obj/",
+      "outputPath": "/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/Collections/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/santosh/.nuget/NuGet/NuGet.Config"

@@ -6,7 +6,7 @@ namespace VariablesExercise
     {
         static void main(String[] args)
         {
-
+              
         }
     }
 
