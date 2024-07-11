@@ -1,0 +1,15 @@
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.GeneratedMSBuildEditorConfig.editorconfig
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.AssemblyInfoInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.AssemblyInfo.cs
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.csproj.CoreCompileInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.sourcelink.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/bin/Debug/net8.0/BasicOperator
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/bin/Debug/net8.0/BasicOperator.deps.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/bin/Debug/net8.0/BasicOperator.runtimeconfig.json
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/bin/Debug/net8.0/BasicOperator.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/bin/Debug/net8.0/BasicOperator.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/refint/BasicOperator.dll
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.pdb
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/BasicOperator.genruntimeconfig.cache
+/home/santosh/Programming Files/dotNet-Practice/ConsoleApp/BasicOperator/obj/Debug/net8.0/ref/BasicOperator.dll
