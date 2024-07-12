@@ -39,9 +39,7 @@ namespace Strings
             {
                 Console.WriteLine(word);
             }
-            {
-                
-            }
+            
 
 
 
