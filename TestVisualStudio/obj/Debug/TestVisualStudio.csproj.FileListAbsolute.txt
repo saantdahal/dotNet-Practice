@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\TestVisualStudio\bin\Debug\TestVisualStudio.exe.config
+E:\Programming Files\dotNet-Practice\TestVisualStudio\bin\Debug\TestVisualStudio.exe
+E:\Programming Files\dotNet-Practice\TestVisualStudio\bin\Debug\TestVisualStudio.pdb
+E:\Programming Files\dotNet-Practice\TestVisualStudio\obj\Debug\TestVisualStudio.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\TestVisualStudio\obj\Debug\TestVisualStudio.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\TestVisualStudio\obj\Debug\TestVisualStudio.exe
+E:\Programming Files\dotNet-Practice\TestVisualStudio\obj\Debug\TestVisualStudio.pdb

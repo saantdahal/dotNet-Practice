@@ -19,6 +19,10 @@ namespace BasicOperator
             System.Console.WriteLine("Div:"+ (num1/num2));
             System.Console.WriteLine("Mod:"+ (num1%num2));
 
+
+
+
+
             
             
         }
