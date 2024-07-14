@@ -1,7 +1,0 @@
-E:\Programming Files\dotNet-Practice\ConsoleApp\Strings\bin\Debug\Strings.exe.config
-E:\Programming Files\dotNet-Practice\ConsoleApp\Strings\bin\Debug\Strings.exe
-E:\Programming Files\dotNet-Practice\ConsoleApp\Strings\bin\Debug\Strings.pdb
-E:\Programming Files\dotNet-Practice\ConsoleApp\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
-E:\Programming Files\dotNet-Practice\ConsoleApp\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
-E:\Programming Files\dotNet-Practice\ConsoleApp\Strings\obj\Debug\Strings.exe
-E:\Programming Files\dotNet-Practice\ConsoleApp\Strings\obj\Debug\Strings.pdb
