@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Strings
 {
     internal class Program
@@ -49,6 +43,20 @@ namespace Strings
             Console.WriteLine(Result.ToLower());
 
             // Character Array
+            // String to character array
+            char[] charArray = Result.ToCharArray();
+            foreach (char c in charArray)
+            { 
+            Console.WriteLine(c);
+            }
+
+            // Chat to string
+            char[] newArray = { 'C', '#', ' ', 'i', 's',' ', 'a', 'w', 'e', 's', 'o', 'm', 'e' };
+            // Convert the character array to string
+            string newString = new string(newArray);
+            Console.WriteLine(newString);
+
+
         }
     }
 }
