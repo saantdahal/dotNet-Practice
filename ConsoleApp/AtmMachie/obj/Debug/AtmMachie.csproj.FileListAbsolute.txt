@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp\AtmMachie\bin\Debug\AtmMachie.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp\AtmMachie\bin\Debug\AtmMachie.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\AtmMachie\bin\Debug\AtmMachie.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp\AtmMachie\obj\Debug\AtmMachie.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\AtmMachie\obj\Debug\AtmMachie.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\AtmMachie\obj\Debug\AtmMachie.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\AtmMachie\obj\Debug\AtmMachie.pdb

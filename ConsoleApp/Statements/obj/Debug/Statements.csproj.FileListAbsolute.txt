@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp\Statements\bin\Debug\Statements.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp\Statements\bin\Debug\Statements.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\Statements\bin\Debug\Statements.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp\Statements\obj\Debug\Statements.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\Statements\obj\Debug\Statements.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\Statements\obj\Debug\Statements.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\Statements\obj\Debug\Statements.pdb
