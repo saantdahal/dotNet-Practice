@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp\TypesOfArray\bin\Debug\TypesOfArray.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp\TypesOfArray\bin\Debug\TypesOfArray.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\TypesOfArray\bin\Debug\TypesOfArray.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp\TypesOfArray\obj\Debug\TypesOfArray.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\TypesOfArray\obj\Debug\TypesOfArray.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\TypesOfArray\obj\Debug\TypesOfArray.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\TypesOfArray\obj\Debug\TypesOfArray.pdb
