@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp\ParamsKeyword\bin\Debug\ParamsKeyword.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp\ParamsKeyword\bin\Debug\ParamsKeyword.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\ParamsKeyword\bin\Debug\ParamsKeyword.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp\ParamsKeyword\obj\Debug\ParamsKeyword.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\ParamsKeyword\obj\Debug\ParamsKeyword.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\ParamsKeyword\obj\Debug\ParamsKeyword.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\ParamsKeyword\obj\Debug\ParamsKeyword.pdb
