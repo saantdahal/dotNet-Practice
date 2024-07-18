@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\CodeWithHarry\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Programming Files\dotNet-Practice\CodeWithHarry\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Programming Files\dotNet-Practice\CodeWithHarry\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Programming Files\dotNet-Practice\CodeWithHarry\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\CodeWithHarry\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\CodeWithHarry\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Programming Files\dotNet-Practice\CodeWithHarry\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
