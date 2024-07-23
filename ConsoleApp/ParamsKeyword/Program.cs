@@ -19,8 +19,9 @@ namespace ParamsKeyword
         static void Main(string[] args)
         {
             PrintNumbers(1, 2, 3, 4);
+            char[] chars = { 'a', 'b' };
+            // ReadOnly Key 
             
-
         }
 
     }
