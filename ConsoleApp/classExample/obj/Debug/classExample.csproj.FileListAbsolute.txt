@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp\classExample\bin\Debug\classExample.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp\classExample\bin\Debug\classExample.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\classExample\bin\Debug\classExample.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp\classExample\obj\Debug\classExample.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\classExample\obj\Debug\classExample.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\classExample\obj\Debug\classExample.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\classExample\obj\Debug\classExample.pdb
