@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp\BookDisplayInfo\bin\Debug\BookDisplayInfo.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp\BookDisplayInfo\bin\Debug\BookDisplayInfo.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\BookDisplayInfo\bin\Debug\BookDisplayInfo.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp\BookDisplayInfo\obj\Debug\BookDisplayInfo.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\BookDisplayInfo\obj\Debug\BookDisplayInfo.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\BookDisplayInfo\obj\Debug\BookDisplayInfo.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\BookDisplayInfo\obj\Debug\BookDisplayInfo.pdb
