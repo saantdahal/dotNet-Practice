@@ -40,10 +40,7 @@ namespace BookDisplayInfo
             static void Main(string[] args)
             {
                 Book book = new Book();
-                book.BookInfo();
-
-
-
+            book.BookInfo();
             }
         }
     }
