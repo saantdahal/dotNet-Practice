@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testtt", "Testtt\Testtt.csproj", "{79DF902B-7872-47B2-A16E-CD7331697109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{913ED6D1-795A-4353-BAEC-0822323278A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{B820F4FC-B4A5-411C-9560-9413950A5895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gettersetter", "gettersetter\gettersetter.csproj", "{B58A5245-B551-471B-AC6E-B5F66599D84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79DF902B-7872-47B2-A16E-CD7331697109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DF902B-7872-47B2-A16E-CD7331697109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DF902B-7872-47B2-A16E-CD7331697109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DF902B-7872-47B2-A16E-CD7331697109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{913ED6D1-795A-4353-BAEC-0822323278A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913ED6D1-795A-4353-BAEC-0822323278A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913ED6D1-795A-4353-BAEC-0822323278A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913ED6D1-795A-4353-BAEC-0822323278A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B820F4FC-B4A5-411C-9560-9413950A5895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B820F4FC-B4A5-411C-9560-9413950A5895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B820F4FC-B4A5-411C-9560-9413950A5895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B820F4FC-B4A5-411C-9560-9413950A5895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B58A5245-B551-471B-AC6E-B5F66599D84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B58A5245-B551-471B-AC6E-B5F66599D84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B58A5245-B551-471B-AC6E-B5F66599D84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B58A5245-B551-471B-AC6E-B5F66599D84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

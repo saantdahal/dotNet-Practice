@@ -1,0 +1,15 @@
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/bin/Debug/net8.0/gettersetter
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/bin/Debug/net8.0/gettersetter.deps.json
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/bin/Debug/net8.0/gettersetter.runtimeconfig.json
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/bin/Debug/net8.0/gettersetter.dll
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/bin/Debug/net8.0/gettersetter.pdb
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.AssemblyInfoInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.AssemblyInfo.cs
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.csproj.CoreCompileInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.sourcelink.json
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.dll
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/refint/gettersetter.dll
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.pdb
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/gettersetter.genruntimeconfig.cache
+/home/santosh/Programming Files/dotNet-Practice/gettersetter/obj/Debug/net8.0/ref/gettersetter.dll
