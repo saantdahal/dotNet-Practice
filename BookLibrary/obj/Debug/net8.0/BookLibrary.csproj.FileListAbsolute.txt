@@ -1,0 +1,15 @@
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/bin/Debug/net8.0/BookLibrary
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/bin/Debug/net8.0/BookLibrary.deps.json
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/bin/Debug/net8.0/BookLibrary.runtimeconfig.json
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/bin/Debug/net8.0/BookLibrary.dll
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/bin/Debug/net8.0/BookLibrary.pdb
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.AssemblyInfoInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.AssemblyInfo.cs
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.csproj.CoreCompileInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.sourcelink.json
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.dll
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/refint/BookLibrary.dll
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.pdb
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/BookLibrary.genruntimeconfig.cache
+/home/santosh/Programming Files/dotNet-Practice/BookLibrary/obj/Debug/net8.0/ref/BookLibrary.dll

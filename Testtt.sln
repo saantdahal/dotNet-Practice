@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gettersetter", "gettersetter\gettersetter.csproj", "{B58A5245-B551-471B-AC6E-B5F66599D84A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{E6713678-A0FB-4887-B6E6-9299F3E3862F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{B58A5245-B551-471B-AC6E-B5F66599D84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B58A5245-B551-471B-AC6E-B5F66599D84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B58A5245-B551-471B-AC6E-B5F66599D84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6713678-A0FB-4887-B6E6-9299F3E3862F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6713678-A0FB-4887-B6E6-9299F3E3862F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6713678-A0FB-4887-B6E6-9299F3E3862F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6713678-A0FB-4887-B6E6-9299F3E3862F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
