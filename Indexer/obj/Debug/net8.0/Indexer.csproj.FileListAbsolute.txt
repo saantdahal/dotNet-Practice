@@ -1,0 +1,15 @@
+/home/santosh/Programming Files/dotNet-Practice/Indexer/bin/Debug/net8.0/Indexer
+/home/santosh/Programming Files/dotNet-Practice/Indexer/bin/Debug/net8.0/Indexer.deps.json
+/home/santosh/Programming Files/dotNet-Practice/Indexer/bin/Debug/net8.0/Indexer.runtimeconfig.json
+/home/santosh/Programming Files/dotNet-Practice/Indexer/bin/Debug/net8.0/Indexer.dll
+/home/santosh/Programming Files/dotNet-Practice/Indexer/bin/Debug/net8.0/Indexer.pdb
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.GeneratedMSBuildEditorConfig.editorconfig
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfoInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.AssemblyInfo.cs
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.csproj.CoreCompileInputs.cache
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.sourcelink.json
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.dll
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/refint/Indexer.dll
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.pdb
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/Indexer.genruntimeconfig.cache
+/home/santosh/Programming Files/dotNet-Practice/Indexer/obj/Debug/net8.0/ref/Indexer.dll
