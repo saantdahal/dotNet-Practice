@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gettersetter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981166eda4d9ee5d21ab68e7b4b7879b66f9c2ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02049d7b482c658b338a7bf58ecd4b89e0fe542a")]
 [assembly: System.Reflection.AssemblyProductAttribute("gettersetter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gettersetter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
