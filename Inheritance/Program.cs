@@ -4,35 +4,24 @@ namespace Inheritance
 {
     internal class Program
     {
-        public class Employee
-        {
-            protected string firstName="Ram";
-            protected string lastName="Sharma";
-            protected int employeeID=42;
-            protected float salary=1500.2f;
-
-
-        }
-
-        public class Manager : Employee
-        {
-            string department= "HOD";
-
-            public void displayMethod(){
-                System.Console.WriteLine("======================================");
-                System.Console.WriteLine($"|  First Name of the employee: {firstName}   |");
-                System.Console.WriteLine($"|  Last Name of the employee: {lastName} |");
-                System.Console.WriteLine($"|  Employee ID: {employeeID}                   |");
-                System.Console.WriteLine($"|  Salary of the employee: {salary}    |");
-                System.Console.WriteLine($"|  Department of the employee: {department}   |");
-                System.Console.WriteLine("======================================");
-                
+        class Santosh{
+            public int a, b,c;
+            public void ReadData(int a, int b){
+                this.a = a;
+                this.b =b;
             }
-        }
-        static void Main(String[] args)
+        public void display()
         {
-          Manager m1 = new Manager();
-          m1.displayMethod();
+            System.Console.WriteLine("value of a is :"+ a);
+            System.Console.WriteLine("value of b is :"+ b);
         }
+        }
+
+      static void Main(String[] args)
+      {
+        System.Console.WriteLine("");
+
+        // Abstract Class k padhne hai
+      }
     }
 }
