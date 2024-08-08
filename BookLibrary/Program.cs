@@ -65,6 +65,7 @@ public class Program
         else
         {
             Console.WriteLine($"Book with title '{searchTitle}' not found.");
+            Console.Write();
         }
 
         // List all books in the library

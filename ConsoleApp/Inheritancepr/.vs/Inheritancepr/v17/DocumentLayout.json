@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming Files\\dotNet-Practice\\ConsoleApp\\Inheritancepr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40CA7F7D-3C0C-4FE0-8366-A47515E1E4F7}|Inheritancepr\\Inheritancepr.vbproj|e:\\programming files\\dotnet-practice\\consoleapp\\inheritancepr\\inheritancepr\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{40CA7F7D-3C0C-4FE0-8366-A47515E1E4F7}|Inheritancepr\\Inheritancepr.vbproj|solutionrelative:inheritancepr\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "E:\\Programming Files\\dotNet-Practice\\ConsoleApp\\Inheritancepr\\Inheritancepr\\Module1.vb",
+              "RelativeDocumentMoniker": "Inheritancepr\\Module1.vb",
+              "ToolTip": "E:\\Programming Files\\dotNet-Practice\\ConsoleApp\\Inheritancepr\\Inheritancepr\\Module1.vb",
+              "RelativeToolTip": "Inheritancepr\\Module1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-07T09:52:43.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

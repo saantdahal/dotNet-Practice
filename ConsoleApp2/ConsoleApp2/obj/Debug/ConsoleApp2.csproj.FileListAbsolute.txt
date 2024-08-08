@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

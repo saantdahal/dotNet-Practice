@@ -1,0 +1,7 @@
+E:\Programming Files\dotNet-Practice\ConsoleApp\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+E:\Programming Files\dotNet-Practice\ConsoleApp\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+E:\Programming Files\dotNet-Practice\ConsoleApp\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+E:\Programming Files\dotNet-Practice\ConsoleApp\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+E:\Programming Files\dotNet-Practice\ConsoleApp\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb
